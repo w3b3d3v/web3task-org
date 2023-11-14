@@ -21,6 +21,21 @@ Explore our GitHub repositories to access the source code and contribute.
 
 [Web3task-front](https://github.com/w3b3d3v/web3task-front) - Frontend repository
 
+## Environment
+
+Node: [v16.20.0](https://nodejs.org/en/blog/release/v16.20.0)
+
+Npm: [Getting Started](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+Yarn: [Getting Started](https://classic.yarnpkg.com/lang/en/docs/getting-started/)
+
+Visual Studio Code: [Download](https://code.visualstudio.com/Download)
+
+Visual Studio Code Plugins:
+[Auto-Save](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) |
+[Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) |
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 ## Design and Architecture
 
 Explore our design and architecture resources to gain a deeper understanding of Web3Task.
@@ -28,6 +43,12 @@ Explore our design and architecture resources to gain a deeper understanding of 
  [Figma](https://www.figma.com/file/UDGGqo8K53CiYYpGutoVuH/PodLabs?type=design&node-id=0-1&mode=design) - Design system
 
  [Miro](https://miro.com/app/board/uXjVM87Pu3o=/) - Architectural drawings and flowcharts
+
+ ## Demo
+
+ [Demo video](https://www.youtube.com/watch?v=HsM9eLr7Wjo)
+
+ [Live Preview](https://web3task-front-uat.vercel.app/)
 
 ## Contribution
 
