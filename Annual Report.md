@@ -5,11 +5,12 @@ The product has robust task management features, work tokenization through NFTs,
 
 # Analyzed Repositories
 
-[Web3task-hackathon](https://github.com/w3b3d3v/Hackathon-PodLabs) - Hackathon repository
-[Web3task-contracts](https://github.com/w3b3d3v/web3task-contracts) - Smart Contracts repository
-[Web3task-front](https://github.com/w3b3d3v/web3task-front) - Frontend repository
-[Web3task-org](https://github.com/w3b3d3v/web3task-org) - Organization repository
-[Web3ask-lp](https://github.com/w3b3d3v/web3task-lp) - Landing Page repository
+[Web3task-hackathon](https://github.com/w3b3d3v/Hackathon-PodLabs) - Hackathon repository  
+[Web3task-contracts](https://github.com/w3b3d3v/web3task-contracts) - Smart Contracts repository  
+[Web3task-front](https://github.com/w3b3d3v/web3task-front) - Frontend repository  
+[Web3task-org](https://github.com/w3b3d3v/web3task-org) - Organization repository  
+[Web3ask-lp](https://github.com/w3b3d3v/web3task-lp) - Landing Page repository  
+[Figma](https://www.figma.com/community/file/1335063165996522243/web3task) - Figma design
 
 # Documentation
 
