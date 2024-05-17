@@ -50,6 +50,10 @@ Explore our design and architecture resources to gain a deeper understanding of 
 
  [Live Preview](https://web3task-front-uat.vercel.app/)
 
+ ## Documentation
+
+[Gitbook](https://web3task.gitbook.io/web3task/contracts/web3task) - Understand how it works
+
 ## Contribution
 
 We would love to receive your contributions to enhance Web3Task! Open issues, send pull requests, or join our discussions on Discord.
